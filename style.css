@@ -1,0 +1,15 @@
+h1{
+    clear: both;
+}
+
+#Commnd{
+    background-color: lightgrey;
+}
+
+.img_div{
+    border: none; 
+    margin: 30px; 
+    background-color: #f8f8f8; 
+    min-height: 40px;
+    float: left;
+}
